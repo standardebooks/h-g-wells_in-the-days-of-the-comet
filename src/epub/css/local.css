@@ -52,3 +52,9 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
+
+#prologue p,
+#chapter-1-1 div p,
+#epilogue p{
+	font-style: italic;
+}
