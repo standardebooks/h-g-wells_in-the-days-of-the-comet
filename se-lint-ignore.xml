@@ -10,5 +10,4 @@
 			<reason>This sequence of characters is the representation of a faint postmark, and is not an abbreviation.</reason>
 		</ignore>
 	</file>
-
 </se-lint-ignore>

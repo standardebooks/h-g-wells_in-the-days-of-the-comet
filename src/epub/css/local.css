@@ -9,7 +9,6 @@
 }
 
 /* Letter styling */
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -59,7 +58,6 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-
 }
 /* End full-page epigraphs */
 /* End all epigraphs */
