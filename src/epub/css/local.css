@@ -10,7 +10,6 @@ q{
 #chapter-1-4 blockquote p{
 	font-variant: small-caps;
 	text-align: center;
-	text-indent: 0;
 }
 
 /* Letter styling */
@@ -90,8 +89,8 @@ p span.i1{
 	text-indent: -1em;
 }
 
-#prologue p,
-#chapter-1-1 div p,
-#epilogue p{
+#prologue > p,
+#chapter-1-1 hr ~ p,
+#epilogue > p{
 	font-style: italic;
 }
