@@ -55,7 +55,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/3797</dc:source>
 		<dc:source>https://archive.org/details/indaysofcomet0000hgwe</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006928423</dc:source>
-		<meta property="se:word-count">81719</meta>
+		<meta property="se:word-count">81092</meta>
 		<meta property="se:reading-ease.flesch">69.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/In_the_Days_of_the_Comet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_in-the-days-of-the-comet</meta>
