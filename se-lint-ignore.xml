@@ -2,9 +2,12 @@
 <se-lint-ignore>
 	<file path="chapter-1-3.xhtml">
 		<ignore code="t-001">
+			<line>269</line>
 			<reason>The double spacing is due to trying to represent what remains of a faint postmark. We need the extra spaces to indicate a gap where a letter cannot be discerned.</reason>
 		</ignore>
 		<ignore code="y-034">
+			<line>266</line>
+			<line>280</line>
 			<reason>This sequence of characters is the representation of a faint postmark, and is not an abbreviation.</reason>
 		</ignore>
 	</file>
