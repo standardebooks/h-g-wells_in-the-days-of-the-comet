@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.</dc:abstract>
+		<meta property="schema:abstract">A strange comet collides with Earth, spreading vapors that change human consciousness in a variety of positive ways.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;In the Days of the Comet&lt;/i&gt;, first published in 1906, is one of &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells’&lt;/a&gt; “scientific romances.” Though it’s clearly a work of science fiction in that it features the collision of a huge comet with Earth, it has a greater than usual emphasis on Wells’ typical social commentary and criticism.&lt;/p&gt;
 			&lt;p&gt;The main story is cast as a memoir being written by an old man in a tower. It begins with the narrator as an unhappy young man who is thwarted in love. The grim working and social conditions of the late 19th century are described in some detail. After the comet strikes, the effects of the green vapors it spreads are the focal points of the plot of the second and third parts. They somehow alter human consciousness in a way which makes them immediately perceive both the flaws of their previous behaviors, and the inequities of society’s structures. With this new consciousness, humanity begins to remake the world.&lt;/p&gt;
