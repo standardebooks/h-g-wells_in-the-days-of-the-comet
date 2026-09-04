@@ -31,10 +31,10 @@
 		<dc:title id="title">In the Days of the Comet</dc:title>
 		<meta property="file-as" refines="#title">In the Days of the Comet</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Utopias -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Utopias--Fiction</dc:subject>
 		<dc:subject id="subject-3">Political fiction</dc:subject>
 		<dc:subject id="subject-4">Utopian fiction</dc:subject>
-		<dc:subject id="subject-5">Comets -- Collisions with Earth -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Comets--Collisions with Earth--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
